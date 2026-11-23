@@ -96,8 +96,8 @@ The presentation reports the following proposed results:
 - **20–40%** improvement in network efficiency
 - **60%** lower carbon footprint
 
-*These figures are presentation-reported claims and should be validated with simulation data, defined baselines, and calculation methods before being treated as verified results.*
-
+*These figures are presentation-reported claims and should be validated with simulation data, defined baselines, and calculation methods before being treated as verified results.* 
+- [`Bio_Inspired_Microgrid_Paper.pdf`](./Bio_Inspired_Microgrid_Paper.pdf) — Complete 11-page technical paper with analytical loss screening, architecture diagrams, and validation plan.
 ## 🔮 Future Applications
 
 - IoT-enabled microgrid deployment
