@@ -1,5 +1,5 @@
 # Bio-Inspired Quantum Microgrid Power Distribution
-![Bio-Inspired Quantum Microgrid Block Diagram](./EXACT-FILENAME.png)
+![Bio-Inspired Quantum Microgrid Block Diagram](./Bio-Inspired-Quantum-Microgrid-Block-Diagram.png)
 ### Using Photosynthetic Leaf Networks
 
 **Project Team:** Naresh Anand D, Pragadeesh R  
