@@ -74,6 +74,94 @@ When a network failure occurs, power flow is rerouted through alternative pathwa
 - Power system modeling and simulation
 - Quantum-inspired adaptive algorithms
 - Microgrid network analysis
+  # Bio-Inspired Quantum Microgrid Power Distribution
+
+### Using Photosynthetic Leaf Networks
+
+**Project Team:** Naresh Anand D, Pragadeesh R  
+**Institution:** Anjalai Ammal Mahalingam Engineering College  
+**Department:** Electrical and Electronics Engineering (EEE)  
+**Year:** 3rd Year
+
+---
+
+## 📖 Project Overview
+
+This project proposes a bio-inspired quantum microgrid power distribution architecture based on photosynthetic leaf venation networks. It aims to improve energy distribution efficiency, adaptability, reliability, and fault recovery in renewable-rich urban power distribution systems.
+
+The system combines leaf-inspired hierarchical network design, quantum-inspired routing concepts, and self-healing mechanisms to achieve adaptive power flow and efficient distribution.
+
+## 🎯 Objectives
+
+- Reduce power transmission and distribution losses.
+- Improve renewable energy integration.
+- Develop adaptive power routing.
+- Enhance fault tolerance and resilience.
+- Enable self-healing power distribution.
+- Reduce dependency on centralized control.
+
+## ⚡ Problem Statement
+
+Conventional and modern power grids face challenges with renewable energy integration, changing load demands, transmission losses, and fault management.
+
+Major challenges include:
+
+- Energy inefficiency
+- Voltage and frequency fluctuations
+- Unpredictable loads
+- Limited adaptability
+- Lack of self-healing mechanisms
+- Dependence on communication networks
+
+## 🌿 Nature-Inspired Concept
+
+The project takes inspiration from leaf venation networks, which distribute resources through interconnected pathways.
+
+| Leaf structure | Microgrid equivalent |
+|---|---|
+| Petiole / Main vein | PCC and primary feeder |
+| Major lateral veins | Main bus and sub-feeders |
+| Fine veinlets | Secondary distribution network |
+| Chloroplasts | Distributed energy resources (solar, wind) |
+| Vein junctions | Smart switches and reclosers |
+
+## 🧠 Proposed Architecture
+
+### 1. Bio-Mimetic Design
+Nodes represent leaf cells or loads, while links represent veins or distribution lines. Energy allocation is inspired by photosynthetic intensity.
+
+### 2. Quantum-Inspired Routing
+Multiple paths are evaluated using quantum-inspired concepts such as superposition. Quantum annealing-inspired optimization is proposed for identifying lower-loss routes.
+
+### 3. Self-Healing Mechanism
+When a network failure occurs, power flow is rerouted through alternative pathways to improve recovery and continuity of supply.
+
+## 🕸️ Network Topology
+
+- 50-node microgrid network
+- Leaf-inspired hierarchical topology
+- Renewable energy integration
+- Adaptive power-flow routing
+- MATLAB simulation environment
+
+## 🛠️ Tools & Technologies
+
+- MATLAB
+- Power system modeling and simulation
+- Quantum-inspired adaptive algorithms
+- Microgrid network analysis ## Simulation & Analytical Results
+
+### 1. Simulink Model Overview
+![Simulink Model](./simulink%20model.png)
+
+### 2. Model Output
+![Model Output](./model%20output.png)
+
+### 3. Load Loss Comparison
+![Load Loss Comparison](./load%20loss%20comparison.png)
+
+### 4. Voltage Drop Comparison
+![Voltage Drop Comparison](./voltage%20drop%20comparison.png)
 
 ## 📊 Expected Benefits / Reported Results
 
